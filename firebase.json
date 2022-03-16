@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "build/index",
+    "public": "build/index.html",
     "predeploy":[
      "npm install",
      "npm run build"
