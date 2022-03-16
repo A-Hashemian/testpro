@@ -3,7 +3,7 @@
     "public": "build",
     "predeploy":[
      "npm install",
-     "npm run dev"
+     "npm run build"
 
    ],
     "ignore": [
